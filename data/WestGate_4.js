@@ -1,0 +1,1 @@
+var json_WestGate_4 = {"type":"FeatureCollection","name":"WestGate_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Tempat":"West Gate"},"geometry":{"type":"Point","coordinates":[107.033130693726264,-6.288687347585009]}}]}

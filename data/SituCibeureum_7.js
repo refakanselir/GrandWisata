@@ -1,0 +1,1 @@
+var json_SituCibeureum_7 = {"type":"FeatureCollection","name":"SituCibeureum_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1","Tempat":"Situ Cibeureum"},"geometry":{"type":"Point","coordinates":[107.045790062893204,-6.296968979133133]}}]}

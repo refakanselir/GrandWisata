@@ -1,0 +1,1 @@
+var json_GerbangTolTambun_13 = {"type":"FeatureCollection","name":"GerbangTolTambun_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"9","Tempat":"Gerbang Tol Tambun"},"geometry":{"type":"Point","coordinates":[107.051677767142451,-6.278452499567646]}}]}

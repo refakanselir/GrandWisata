@@ -1,0 +1,1 @@
+var json_PlazaOfCelebration_15 = {"type":"FeatureCollection","name":"PlazaOfCelebration_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[107.047894186603585,-6.280237277592879]}}]}

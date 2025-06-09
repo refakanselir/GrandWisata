@@ -1,0 +1,1 @@
+var json_LivingWorldGrandWisata_11 = {"type":"FeatureCollection","name":"LivingWorldGrandWisata_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"2","Tempat":"Living World Grand Wisata"},"geometry":{"type":"Point","coordinates":[107.04686337852327,-6.292923421372719]}}]}

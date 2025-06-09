@@ -1,0 +1,1 @@
+var json_PasarModernGrandWisata_9 = {"type":"FeatureCollection","name":"PasarModernGrandWisata_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"4","Tempat":"Pasar Modern Grand Wisata"},"geometry":{"type":"Point","coordinates":[107.043531849315144,-6.276144055303548]}}]}

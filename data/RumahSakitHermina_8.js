@@ -1,0 +1,1 @@
+var json_RumahSakitHermina_8 = {"type":"FeatureCollection","name":"RumahSakitHermina_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"9","Tempat":"Rumah Sakit Hermina"},"geometry":{"type":"Point","coordinates":[107.047371387058007,-6.277003943223812]}}]}

@@ -1,0 +1,1 @@
+var json_GoWetWaterpark_12 = {"type":"FeatureCollection","name":"GoWetWaterpark_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"3","Tempat":"Go! Wet Waterpark"},"geometry":{"type":"Point","coordinates":[107.050625296672195,-6.297634433396558]}}]}

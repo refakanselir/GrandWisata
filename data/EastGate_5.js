@@ -1,0 +1,1 @@
+var json_EastGate_5 = {"type":"FeatureCollection","name":"EastGate_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null,"Tempat":"East Gate"},"geometry":{"type":"Point","coordinates":[107.066716971437216,-6.299503026646554]}}]}
